@@ -8,4 +8,6 @@ function App (val) {
 
 }
 
+new App(50);
+
 module.exports = App;
