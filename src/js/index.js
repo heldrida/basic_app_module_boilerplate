@@ -1,3 +1,5 @@
+console.log('Hello app!');
+
 function App (val) {
 
 	console.log('App initialised!');
@@ -7,7 +9,5 @@ function App (val) {
 	}
 
 }
-
-new App(50);
 
 module.exports = App;
