@@ -1,1 +1,0 @@
-{"version":3,"file":"app.css","sources":["app.scss"],"sourcesContent":["body {\n\tfont-family: Helvetica, sans-serif;\n\tcolor: #fb5;\n\tletter-spacing: 1px;\n\tpadding: 30px;\n}"],"mappings":"AAAA,AAAA,IAAI,CAAC;EACJ,WAAW,EAAE,qBAAsB;EACnC,KAAK,EAAE,IAAK;EACZ,cAAc,EAAE,GAAI;EACpB,OAAO,EAAE,IAAK,GACd","names":[],"sourceRoot":"/source/"}
